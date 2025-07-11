@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sayantan Sanyal
 
-<!--
-**sayantansnl/sayantansnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 Screenwriter | 🎨 Video Editor | 💻 Web Developer
 
-Here are some ideas to get you started:
+I'm a screenwriter from West Bengal, currently mastering full-stack development and video editing. Passionate about telling impactful stories through both **code** and **cinema**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tools & Technologies
+
+### 💻 | Tech Stack.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,git" alt="Tech Stack" />
+</p>
+
+### ✍🏻 | Skills I want to gain in the future.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,java,spring" alt="Tech Stack" />
+</p>
+
+### 🎬 | 🎨 For Screenplays and Edits.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FinalDraft-Screenwriting-blue?style=for-the-badge" alt="Final Draft" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-Video_Editing-black?style=for-the-badge" alt="DaVinci Resolve" />
+</p>
+
+---
+
+## 🔥 Passion
+
+> Creating stuff from scratch —  
+> whether it’s writing screenplays, coding apps, or editing videos.  
+> I love building, shaping, and refining ideas into finished works.
+
+---
