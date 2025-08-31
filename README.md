@@ -11,13 +11,13 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
 ### 💻 | Tech Stack.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,bootstrap,nodejs,npm,express,figma,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,bootstrap,nodejs,npm,express,figma,git,python" alt="Tech Stack" />
 </p>
 
 ### ✍🏻 | Skills I want to gain in the future.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,ts,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,ts" alt="Tech Stack" />
 </p>
 
 ### 🎬 | 🎨 For Screenplays and Edits.
