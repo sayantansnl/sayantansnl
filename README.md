@@ -17,7 +17,7 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
 ### ✍🏻 | Skills I want to gain in the future.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,ts" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,go" alt="Tech Stack" />
 </p>
 
 ### 🎬 | 🎨 For Screenplays and Edits.
