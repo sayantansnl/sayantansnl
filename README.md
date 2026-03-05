@@ -2,7 +2,7 @@
 
 🎬 Screenwriter | 🎨 Video Editor | 💻 Web Developer
 
-I'm a screenwriter from West Bengal, currently mastering full-stack development and video editing. Passionate about telling impactful stories through both **code** and **cinema**.
+I'm a screenwriter from West Bengal, currently mastering full-stack development and video editing. Passionate about telling impactful stories and learning new stuff. Love Go and TypeScript.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
 ### 💡 | Currently Studying.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue" alt="Currently Studying" />
+  <img src="https://skillicons.dev/icons?i=vue,nvim" alt="Currently Studying" />
 </p>
 
 ### ✍🏻 | Skills I want to gain in the future.
