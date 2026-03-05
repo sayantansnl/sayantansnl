@@ -17,7 +17,7 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
 ### 💡 | Currently Studying.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nvim" alt="Currently Studying" />
+  <img src="https://skillicons.dev/icons?i=vue,rabbitmq" alt="Currently Studying" />
 </p>
 
 ### ✍🏻 | Skills I want to gain in the future.
