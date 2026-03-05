@@ -17,7 +17,7 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
 ### 💡 | Currently Studying.
 
 <p align="left">
-  <img src="vue" alt="Tech Stack" />
+  <img src="vuejs" alt="Tech Stack" />
 </p>
 
 ### ✍🏻 | Skills I want to gain in the future.
