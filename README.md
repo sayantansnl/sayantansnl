@@ -14,10 +14,16 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,git,python,go,postgres,linux" alt="Tech Stack" />
 </p>
 
+### 💡 | Currently Studying.
+
+<p align="left>
+  <img src="https://skillicons.dev/icons?=vuejs" alt="Currently Studying" />
+</p>
+
 ### ✍🏻 | Skills I want to gain in the future.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Skills I want to gain in the future" />
 </p>
 
 ### 🎬 | 🎨 For Screenplays and Edits.
