@@ -11,7 +11,7 @@ I'm a screenwriter from West Bengal, currently mastering full-stack development 
 ### 💻 | Tech Stack.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,git,python,go,postgres,aws,linux&perline=5" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,git,python,go,postgres,aws,linux&perline=10" alt="Tech Stack" />
 </p>
 
 ### 💡 | Currently Studying.
