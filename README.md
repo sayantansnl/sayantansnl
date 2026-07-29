@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sayantan Sanyal
 
-🎬 Screenwriter | 💻 Web Developer
+🎬 Screenwriter | 💻 Computer Science student
 
-I'm a screenwriter from West Bengal, currently mastering backend development. Passionate about telling impactful stories and learning new stuff. Currently interested in low level programming. I tolerate pesky frontend frameworks.
+I'm a screenwriter from West Bengal, studying computer science. Passionate about telling impactful stories and learning new stuff. Currently interested in low level programming. I tolerate pesky frontend frameworks and anything related to JavaScript.
 
 ---
 
