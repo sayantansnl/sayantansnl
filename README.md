@@ -1,10 +1,18 @@
 # 👋 Hi, I'm Sayantan Sanyal
 
-🎬 Screenwriter | 🎨 Video Editor | 💻 Web Developer
+🎬 Screenwriter | 💻 Web Developer
 
-I'm a screenwriter from West Bengal, currently mastering full-stack development and video editing. Passionate about telling impactful stories and learning new stuff. Love Go and TypeScript.
+I'm a screenwriter from West Bengal, currently mastering full-stack development. Passionate about telling impactful stories and learning new stuff. Currently interested in low level programming. I tolerate pesky frontend frameworks.
 
 ---
+
+## Where can you find me? 
+
+You can find me at [boot.dev](https://www.boot.dev/u/sayantansnl) where I spend most of my time studying.
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/650dee08-f7b7-4f17-a4d1-402a4398f06b/thumbnail" >
+</p>
 
 ## 🛠️ My Tools & Technologies
 
