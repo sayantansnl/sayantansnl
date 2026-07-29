@@ -10,7 +10,7 @@ I'm a screenwriter from West Bengal, studying computer science. Passionate about
 
 You can find me at [boot.dev](https://www.boot.dev/u/sayantansnl) where I spend most of my time studying.
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/650dee08-f7b7-4f17-a4d1-402a4398f06b/thumbnail" >
 </p>
 
