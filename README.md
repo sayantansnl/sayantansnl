@@ -28,11 +28,10 @@ You can find me at [boot.dev](https://www.boot.dev/u/sayantansnl) where I spend 
   <img src="https://skillicons.dev/icons?i=rust" alt="Skills I want to gain in the future" />
 </p>
 
-### 🎬 | 🎨 For Screenplays and Edits.
+### 🎬  For Screenplays.
 
 <p align="left">
   <img src="https://img.shields.io/badge/FinalDraft-Screenwriting-blue?style=for-the-badge" alt="Final Draft" />
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-Video_Editing-black?style=for-the-badge" alt="DaVinci Resolve" />
 </p>
 
 ---
@@ -40,7 +39,7 @@ You can find me at [boot.dev](https://www.boot.dev/u/sayantansnl) where I spend 
 ## 🔥 Passion
 
 > Creating stuff from scratch —  
-> whether it’s writing screenplays, coding apps, or editing videos.  
+> whether it’s writing screenplays or coding apps.  
 > I love building, shaping, and refining ideas into finished works.
 
 ---
