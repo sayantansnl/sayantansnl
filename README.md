@@ -23,7 +23,7 @@ You can find me at [boot.dev](https://www.boot.dev/u/sayantansnl) where I spend 
 ### 💻 | Tech Stack.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,git,python,go,postgres,docker,aws,linux&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,git,python,go,postgres,docker,aws,linux&perline=5" alt="Tech Stack" />
 </p>
 
 ### ✍🏻 | Skills I want to gain in the future.
