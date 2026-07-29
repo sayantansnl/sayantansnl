@@ -2,7 +2,7 @@
 
 🎬 Screenwriter | 💻 Web Developer
 
-I'm a screenwriter from West Bengal, currently mastering full-stack development. Passionate about telling impactful stories and learning new stuff. Currently interested in low level programming. I tolerate pesky frontend frameworks.
+I'm a screenwriter from West Bengal, currently mastering backend development. Passionate about telling impactful stories and learning new stuff. Currently interested in low level programming. I tolerate pesky frontend frameworks.
 
 ---
 
